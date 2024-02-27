@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects that help me to think outside the box and that can give me more experience thinking for creative solutions to problems.
 ---
 ## Contact Me!
-- ✉️ : rajivchevannes@gmail.com
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="25" height="25"> : rajivchevannes@gmail.com
 - <img src="linkedin-original.svg" width="25" height="25"> : [LinkedIn](https://www.linkedin.com/in/rajiv-chevannes/)
   
 <!---
